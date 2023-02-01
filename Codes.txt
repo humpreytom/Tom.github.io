@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zxx"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Humprey Tom C. Go">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+</head>
+<body>
+    
+
+
+
+<style>
+    button {
+        background-color: rgb(45, 41, 41);
+        color: white;
+        border: none;
+        height: 70px;
+        width: 1260px;
+        font-size:x-large;
+        font-style:oblique;
+        border-radius: 3px;
+        cursor: pointer;
+        font-weight: bolder;
+        
+    }
+
+</style>
+
+<button>MY AUTOBIOGRAPHY- HUMPREY TOM C. GO</button>
+
+
+
+<main>
+    <article id="about">
+        <h2>About Myself</h2>
+       
+        
+            <img src="myself.png" alt="Profile Pic" class="profile-pic" width="150" height="170">
+            <ul class="info">
+                <li><span class="label">Name: </span> <p>Humprey Tom C. Go</p></li>
+                <li><span class="label">Birthdate: </span> <p>March 1,1999</p></li>
+                <li><span class="label">Age: </span> <p>23</p></li>
+                <li><span class="label">Student: </span> <p>College </p></li>
+                <li><span class="label">Address: </span> <p>Brgy Talisay, Nasipit Agusan del Norte</p></li>
+            </ul>
+       
+<div class="article-content">
+<section>
+<h3>My Childhood</h3>
+
+<p>Noong bata pa ako ay lagi akung pinapalo ni mama dahil sa tigas ng aking ulo hindi nakikinig sa mga inuutos mas inuuna ko pa maglaro 
+kaysa sa utos ni mama yun ang isa sa hindi ko malilimutan ng bata pa ako. Pagka graduate ko ng elementary ay doon na nag umpisa ang pinaka
+worst na nangyari sa buhay ko lalong naging matigas ang aking ulo halos hindi na ako umuuwi sa bahay nag iinum mag damag kasama mga barkada
+hindi na halos magpakita sa bahay kasi mas inuuna pa ang barkada napa bayaan na ang pag aaral dahil sa barkada, huminto ako ng pag aaral ng
+dalawang taon at naging tambay,nangongolekta ng basura, naging barangay tanod, hindi ko akalain ang mga sinapit ko, akala ko doon lang ako sa 
+mundong walang paroroonan ngunit makaraan nang dalawang buwan kinumbinse ako nang ina ko na mag aral muli, doon ko palang napagtanto yung mga 
+nagawa ko na hindi pala madali yung hirap na mararanasan mo kung hindi ka makapagtatapos nang pag-aaral. Kaya mula noon bumalik na ako nang 
+pag-aaral.</p>
+</section>
+
+<h3>My Teenage Life</h3>
+
+<p>Ang buhay ko noong tin-edyer ako doon nagsimula ang paghumaling ko sa mga online na laro gaya ng dota.Nag umpisang mangligaw ng babae
+kaya't napabayaan muli ang pag-aaral hindi na maka pukos sa pag-eeskwela pero kalaunan ay hiniwalayan ko ang babae at nagpatuloy sa 
+pag-aaral at yun nga nakatapos rin sa highschool at hanggang ngayon patuloy parin sa takbo ng buhat at pagkamit ng mga pangarap.Ang pagiging 
+tin-edyer ay very memorable para saakin kaya sabi nila gusto silang bumalik sa pagka tin-edyer pero dito sa mundo walang ganon kayat kahit 
+hindi kana tin-edyer maging masaya ka sa buhay matanda kaman o bata ang importante sa lahat masaya ka kung ano ka ngayon.
+</p>
+
+
+
+
+
+</div>
+
+</article>
+
+
+    
+    
+
+
+
+
+
+    <div class="article-content">
+        <section>
+            <h3>My Hobbies Inside our Home</h3>
+
+            <ul class="list-hobbies">
+                <li>Watching Movies</li>
+                <li>Cooking</li>
+                <li>Cleaning House</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>My Hobbies Outside our Home</h3>
+
+            <ul class="list-hobbies">
+                <li>Jogging</li>
+                <li>Riding</li>
+                <li>Hanging-out with Friends</li>
+              
+            </ul>
+        </section>
+    </div>
+
+
+
+
+    
+
+    <div class="">
+        <section>
+            <h3>My Favorite Artist</h3>
+
+            <figure>
+                <img src="pic1.png" alt= "Favorite Artist" width= "150" height= "170">
+                <figcaption>
+                    Sam Cruz is a Filipino actress, singer and model. She is one of the newest members of ABS-CBN's The Squad Plus, a group of young and upcoming artists.
+                </figcaption>
+            </figure>
+        
+        </section>
+
+        <section>
+            <h3>My Favorite Food</h3>
+
+            <figure>
+                <img src="pic2.png" alt= "Favorite Food" width= "150" height= "170">
+                <figcaption>
+                    A sticky chicken recipe featuring a blend of sweet, spicy, and savory flavors thanks to the addition of honey, ginger, soy, and hot sauce.
+                </figcaption>
+            </figure>
+        </section>
+
+    </div>
+
+</main>
+
+<hr>
+
+<footer>
+    
+                                                    <p>All Rigths Reserved © TOM GO</p>
+</footer>
+
